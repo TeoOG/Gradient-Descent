@@ -1,5 +1,5 @@
 # Gradient-Descent
-Solving Ax=b, using the Gradient Descent optimization algorithm for a sparse pentadiagonal matrix
+Solving Ax=b, using the Gradient Descent optimization algorithm for a sparse pentadiagonal matrix.
 https://en.wikipedia.org/wiki/Pentadiagonal_matrix
 
 We're using the NumPy Python library for our matrices. Both of the Python files contain the same logic, we just feed different values, for every different matrix we work
